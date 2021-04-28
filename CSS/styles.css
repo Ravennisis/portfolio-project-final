@@ -1,45 +1,20 @@
-h1,
-h2 {
-  font-family: "Orelega One", cursive;
-  font-weight: 500;
-  font-size: 3.5em;
-  letter-spacing: -1.5px;
-  line-height: 110%;
-  margin: 0;
-}
-
-h3 {
-  font-family: "Montserrat", sans-serif;
-}
-
-.navigation-links {
-  display: flex;
-  margin-top: 40px;
-  justify-content: center;
-}
-
-.navigation-links a {
-  margin: 20px;
-}
-
-.primary-link {
-  border-radius: 4px;
-  padding: 20px 15px;
-  text-decoration: none;
-  text-transform: capitalize;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-  border: 1px solid;
-}
-
-.secondary-link {
-  border-radius: 4px;
-  padding: 20px 15px;
-  text-decoration: none;
-  text-transform: capitalize;
-  border: 1px solid;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
-}
-
 .hero {
-  background-color: whitesmoke;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f9f7fe;
+  text-align: center;
+}
+
+.hero h1 {
+  font-family: "Orelega One", cursive;
+  font-size: 66px;
+}
+
+.hero h2 {
+  font-family: "Orelega One", cursive;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.hero h3 {
+  font-size: 20px;
 }
