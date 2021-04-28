@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Orelega One", cursive;
+  font-weight: 500;
+  font-size: 3.5em;
+  letter-spacing: -1.5px;
+  line-height: 110%;
+  margin: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
