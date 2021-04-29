@@ -22,6 +22,7 @@
 }
 
 .btn-branding {
+  font-family: "Montserrat", sans-serif;
   background-color: black;
   color: white;
   border-radius: 4px;
@@ -38,4 +39,27 @@
   font-size: 18px;
   line-height: 27px;
   padding: 15px 30px;
+}
+
+.container h1 {
+  font-family: "Orelega One", cursive;
+  font-size: 38px;
+  line-height: 1;
+}
+
+.container h3,
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container p {
+  font-size: 16px;
+}
+
+.container h3 {
+  font-size: 24px;
+}
+
+.container img {
+  border-radius: 10px;
 }
