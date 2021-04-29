@@ -20,3 +20,23 @@
 .hero h3 {
   font-size: 20px;
 }
+
+.btn-branding {
+  font-family: "Montserrat", sans-serif;
+  background-color: purple;
+  color: white;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
+.btn-branding-secondary {
+  font-family: "Montserrat", sans-serif;
+  border: 1px solid purple;
+  color: purple;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
