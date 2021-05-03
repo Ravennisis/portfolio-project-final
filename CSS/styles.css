@@ -2,6 +2,7 @@
   font-family: "Montserrat", sans-serif;
   background-color: #f9f7fe;
   text-align: center;
+  padding: 60px 20px;
 }
 
 .hero h1 {
@@ -31,10 +32,31 @@
   padding: 15px 30px;
 }
 
+.btn-branding:hover {
+  font-family: "Montserrat", sans-serif;
+  border: 1px solid black;
+  color: black;
+  background-color: white;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
 .btn-branding-secondary {
   font-family: "Montserrat", sans-serif;
   border: 1px solid black;
   color: black;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
+.btn-branding-secondary:hover {
+  font-family: "Montserrat", sans-serif;
+  background-color: black;
+  color: white;
   border-radius: 4px;
   font-size: 18px;
   line-height: 27px;
@@ -48,8 +70,23 @@
 }
 
 .container h3,
-p {
+p,
+h4 {
   font-family: "Montserrat", sans-serif;
+}
+
+.container h2 {
+  font-family: "Orelega One", cursive;
+  font-size: 26px;
+  line-height: 1;
+}
+
+.container h4 {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  font-family: "Orelega One", cursive;
+  font-size: 30px;
+  line-height: 1;
 }
 
 .container p {
@@ -60,12 +97,12 @@ p {
   font-size: 24px;
 }
 
-footer .email-link {
+.email-link {
   text-decoration: none;
   color: black;
 }
 
-footer .email-link:hover {
+.email-link:hover {
   color: white;
   background: black;
 }
